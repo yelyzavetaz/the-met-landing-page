@@ -44,7 +44,9 @@ npm start
 yarn start
 ```
 
-**✨ Features**
+---
+
+# ✨ Features**
 • **Responsive layout** for mobile and desktop
 
 • **Burger menu** for smaller screens
