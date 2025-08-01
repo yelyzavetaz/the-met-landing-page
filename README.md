@@ -1,9 +1,12 @@
 __THE MET Landing Page__
+
 A responsive landing page inspired by the Metropolitan Museum of Art. This project presents a clean and minimal design with a burger menu, interactive buttons, and a basic contact form. Built using semantic HTML and custom CSS, it aims to reflect elegance and clarity in both structure and presentation.
 ---
 
+
 __🔗 Live Preview__
-👉 DEMO LINK[https://yelyzavetaz.github.io/the-met-landing-page]
+
+**See the [live preview](https://yelyzavetaz.github.io/the-met-landing-page) here.**
 ---
 
 __🛠️ Technologies Used__
@@ -35,8 +38,13 @@ yarn start
 ```
 
 __✨ Features__
-Responsive layout for mobile and desktop
-Burger menu for smaller screens
-Functional contact form with clear-on-submit behavior
-Sticky footer that scrolls into view at the bottom of the page
-Button hover effects and smooth visual transitions
+• **Responsive layout** for mobile and desktop
+
+• **Burger menu** for smaller screens
+
+• **Functional form** that clears on submit
+
+• **Sticky footer** that scrolls into view
+
+• **Smooth hover effects** on buttons
+
